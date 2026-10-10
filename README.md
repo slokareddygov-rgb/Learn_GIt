@@ -48,6 +48,7 @@ flowchart TB
     style Web fill:#00C853
     style ApplicationAPI fill:#00C853
     style CoreAPIs fill:#FFD600
+    style Database fill:#00C853
 ```
 
 ## 🧭 HLD
